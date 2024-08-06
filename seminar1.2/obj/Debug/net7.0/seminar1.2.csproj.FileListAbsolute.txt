@@ -1,0 +1,14 @@
+C:\Users\79644\Documents\programm\Java\3\CS_semminar\seminar1.2\bin\Debug\net7.0\seminar1.2.exe
+C:\Users\79644\Documents\programm\Java\3\CS_semminar\seminar1.2\bin\Debug\net7.0\seminar1.2.deps.json
+C:\Users\79644\Documents\programm\Java\3\CS_semminar\seminar1.2\bin\Debug\net7.0\seminar1.2.runtimeconfig.json
+C:\Users\79644\Documents\programm\Java\3\CS_semminar\seminar1.2\bin\Debug\net7.0\seminar1.2.dll
+C:\Users\79644\Documents\programm\Java\3\CS_semminar\seminar1.2\bin\Debug\net7.0\seminar1.2.pdb
+C:\Users\79644\Documents\programm\Java\3\CS_semminar\seminar1.2\obj\Debug\net7.0\seminar1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79644\Documents\programm\Java\3\CS_semminar\seminar1.2\obj\Debug\net7.0\seminar1.2.AssemblyInfoInputs.cache
+C:\Users\79644\Documents\programm\Java\3\CS_semminar\seminar1.2\obj\Debug\net7.0\seminar1.2.AssemblyInfo.cs
+C:\Users\79644\Documents\programm\Java\3\CS_semminar\seminar1.2\obj\Debug\net7.0\seminar1.2.csproj.CoreCompileInputs.cache
+C:\Users\79644\Documents\programm\Java\3\CS_semminar\seminar1.2\obj\Debug\net7.0\seminar1.2.dll
+C:\Users\79644\Documents\programm\Java\3\CS_semminar\seminar1.2\obj\Debug\net7.0\refint\seminar1.2.dll
+C:\Users\79644\Documents\programm\Java\3\CS_semminar\seminar1.2\obj\Debug\net7.0\seminar1.2.pdb
+C:\Users\79644\Documents\programm\Java\3\CS_semminar\seminar1.2\obj\Debug\net7.0\seminar1.2.genruntimeconfig.cache
+C:\Users\79644\Documents\programm\Java\3\CS_semminar\seminar1.2\obj\Debug\net7.0\ref\seminar1.2.dll
